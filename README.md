@@ -1,16 +1,23 @@
 ### Hi there 👋
+Welcome to My Profile
 
-<!--
-**yashraut362/yashraut362** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Yash Raut 😃
+IT undergraduate 💻  | Full Stack Web Developer 🌎 | Mobile App Developer 📱| Flutter enthusiast
 
-Here are some ideas to get you started:
+## 🧐 About
+Apart from having the super-power of sitting on a desk and code for more than 24 hours just to deliver something that will make world a better place, coding with headphones-on playing lofi music in background ! Love to write down medium articles and playing krunker.io in free time .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## ⚡ Technologies
+Talk to me about
+- Front-end development using **ReactJs , VueJs**
+- Backend development using **Node, Express**
+- Mobile application development using **Flutter**
+- Backend Services **Firebase**
+
+## 📫 Contact Me
+- Email - [Gmail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=yashraut362@gmail.com&tf=1)
+- LinkedIn - [Gaurav Chouhan](https://www.linkedin.com/in/yash-raut-55330715a/)
+- Blogs - [Medium](https://medium.com/@yashraut362)
+
+-
