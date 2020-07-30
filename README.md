@@ -10,10 +10,11 @@ Apart from having the super-power of sitting on a desk and code for more than 24
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **ReactJs , VueJs**
+- Front-end development using **ReactJs**
+- Backend Services **Firebase**
 - Backend development using **Node, Express**
 - Mobile application development using **Flutter**
-- Backend Services **Firebase**
+
 
 ## 📫 Contact Me
 - Email - [Gmail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=yashraut362@gmail.com&tf=1)
