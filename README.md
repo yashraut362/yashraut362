@@ -1,6 +1,6 @@
 ### Hello There 👋
 Welcome to My Profile
-https://yashraut.vercel.app/
+https://yashraut.me/
 
 
 ## 🧐 About
