@@ -14,9 +14,8 @@ Apart from having the super-power of sitting on a desk and code for more than 24
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashraut362) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hey_yashhhhhh)
 
-[![](https://visitcount.itsvg.in/api?id=yashraut362&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ## 📫 Contact Me
 - Email - [Gmail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=yashraut362@gmail.com&tf=1)
 - Blogs - [Medium](https://medium.com/@yashraut361)
 
+[![](https://visitcount.itsvg.in/api?id=yashraut362&icon=0&color=0)](https://visitcount.itsvg.in)
