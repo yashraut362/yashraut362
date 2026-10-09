@@ -2,25 +2,21 @@
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
 
-## I'm a Full Stack Engineer
+<a href="https://yashraut.me">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&vCenter=true&width=460&lines=Full+Stack+Engineer;Founding+Engineer+%40+Truco.ai;I+ship+products+from+idea+to+production;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Python;Building+with+AI+agents+%26+RAG" alt="Typing intro" />
+</a>
 
-- 🚀 Founding Engineer at [Truco.ai](https://truco.ai), previously Frontend Lead at [Testlify](https://testlify.com)
+- 🚀 Founding Engineer at [Truco.ai](https://truco.ai) — Chrome extension, Electron app, SOC 2 / HIPAA readiness
+- 🧪 Previously Frontend Lead at [Testlify](https://testlify.com) — platform for **3,000+ employers**, **30,000+ assessments/month**
 - 🤖 Building AI-powered products across web, desktop and mobile
 - 📍 Mumbai, India · open to remote
-- 📫 Best way to reach me: [yashraut362@gmail.com](mailto:yashraut362@gmail.com)
+
+![Open to work](https://img.shields.io/badge/Open_to_work-Full_Stack_·_Frontend_·_Founding_Engineer-2ea44f?style=for-the-badge)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yashraut.me)
+[![Resume](https://img.shields.io/badge/Resume-4B5563?style=for-the-badge&logo=readthedocs&logoColor=white)](https://yashraut.me/resume)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashraut362/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashraut362@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yashraut361)
-
----
-
-<img align="right" alt="GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashraut362&layout=compact&hide_border=true&hide_title=true&langs_count=6" />
-
-### GitHub Stats 📊
-
-<img alt="GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yashraut362&show_icons=true&hide_border=true&hide_title=true&count_private=true&include_all_commits=true" />
 
 ---
 
@@ -34,3 +30,5 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
+
+<p align="center"><i>Hiring? I'd love to hear about it — <a href="mailto:yashraut362@gmail.com">yashraut362@gmail.com</a></i></p>
