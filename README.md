@@ -32,6 +32,12 @@ const yash = {
 };
 ```
 
+### 🚀 Check out my work
+
+<a href="https://yashraut.me">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2F81F7,100:1E3A8A&height=110&section=header&text=yashraut.me%20%E2%86%92&fontSize=36&fontColor=ffffff&desc=Projects%20%C2%B7%20Experience%20%C2%B7%20Case%20studies&descAlignY=78&descSize=16&fontAlignY=42" alt="Visit my portfolio" width="100%" />
+</a>
+
 ### 📫 Reach out to me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yashraut.me)
