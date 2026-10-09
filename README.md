@@ -12,7 +12,7 @@
 - 📍 Mumbai, India · open to remote
 
 ```ts
-let yash = {
+const yash = {
   name: "Yash Raut",
   age: 26,
   pronouns: ["he", "him"],
@@ -31,3 +31,10 @@ let yash = {
   reach_me: "yashraut362@gmail.com",
 };
 ```
+
+### 📫 Reach out to me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yashraut.me)
+[![Resume](https://img.shields.io/badge/Resume-2F81F7?style=for-the-badge&logo=readthedocs&logoColor=white)](https://yashraut.me/resume)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashraut362@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashraut362/)
