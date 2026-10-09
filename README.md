@@ -32,6 +32,19 @@ const yash = {
 };
 ```
 
+### 🏆 Achievements
+
+- 🥇 **Winner** — Elixir Product Showcase (2021)
+- 🏁 **Finalist** — VCET Hackathon (2021)
+- 🥇 **Winner** — RECURSION Hackathon (2020) · CodeCell, RGIT Mumbai
+- 🥉 **3rd Prize** — Open Source Software Demonstration (2019) · Vidyavardhini's CoET, Mumbai
+- 🥈 **Runner-up** — Project Showcase, Maharashtra State Board of Technical Education (2018)
+
+### 🎓 Education
+
+- **B.E. in Information Technology** — University of Mumbai · 8.5/10 CGPA · 2021
+- **Diploma in Information Technology** — MSBTE · 89% · 2018
+
 ### 🚀 Check out my work
 
 [![Visit my portfolio](https://img.shields.io/badge/yashraut.me-View_my_work_→-2F81F7?style=flat-square)](https://yashraut.me)
