@@ -24,7 +24,7 @@ const yash = {
   professional_info: {
     code_languages: ["TypeScript", "JavaScript", "Python"],
     frontend: ["React", "Next.js", "Vue", "Nuxt", "React Native", "Electron", "Tailwind CSS"],
-    backend: ["Node.js", "Express", "Flask", "FastAPI", "MongoDB", "PostgreSQL", "Redis"],
+    backend: ["Node.js", "Express", "Flask", "FastAPI", "MongoDB", "Redis"],
     interests: ["AI agents & RAG", "Product engineering", "Shipping fast"],
   },
   portfolio: "https://yashraut.me",
