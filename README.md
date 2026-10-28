@@ -47,7 +47,7 @@ const yash = {
 
 ### 🚀 Check out my work
 
-[![Visit my portfolio](https://img.shields.io/badge/yashraut.me-View_my_work_→-2F81F7?style=flat-square)](https://yashraut.me)
+[![Visit my portfolio](https://img.shields.io/badge/yashraut.me-View_my_work_→-2F81F7?style=flat-square)](https://yashraut.me/#work)
 
 ### 📫 Reach out to me
 
